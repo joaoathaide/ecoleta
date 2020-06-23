@@ -32,7 +32,7 @@ The "Ecoleta" application is a fictional marketplace for connecting companies th
   # Clone this repository:
   $ git clone https://github.com/joaoathaide/ecoleta
 
-  # Go into the repository
+  # Go into the repository:
   $ cd ecoleta
 ```
 
