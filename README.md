@@ -11,6 +11,12 @@
   <a href="#iphone-getting-started-mobile">Getting Started Mobile</a>
 </p>
 
+<div align="center">
+    
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ecoleta%20API&uri=https%3A%2F%2Fgithub.com%2Fjoaoathaide%2Fecoleta%2Fblob%2Fmaster%2FInsomnia_2020-06-23.json)
+    
+</div>
+
 <h1 align="center">
     <img alt="Ecoleta Web" src="https://res.cloudinary.com/dk9miimib/image/upload/v1592867020/gifs/ecoleta-web_v5ated.gif" />
     <img alt="Ecoleta Mobile" src="https://res.cloudinary.com/dk9miimib/image/upload/v1592871000/gifs/ecoleta-mobile_rrnt9n.gif" width="300px" />
